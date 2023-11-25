@@ -1,0 +1,15 @@
+C:\Users\Ninja\helloWorld\cliCalculator\bin\Debug\net8.0\cliCalculator.exe
+C:\Users\Ninja\helloWorld\cliCalculator\bin\Debug\net8.0\cliCalculator.deps.json
+C:\Users\Ninja\helloWorld\cliCalculator\bin\Debug\net8.0\cliCalculator.runtimeconfig.json
+C:\Users\Ninja\helloWorld\cliCalculator\bin\Debug\net8.0\cliCalculator.dll
+C:\Users\Ninja\helloWorld\cliCalculator\bin\Debug\net8.0\cliCalculator.pdb
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.AssemblyInfoInputs.cache
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.AssemblyInfo.cs
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.sourcelink.json
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.dll
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\refint\cliCalculator.dll
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.pdb
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\cliCalculator.genruntimeconfig.cache
+C:\Users\Ninja\helloWorld\cliCalculator\obj\Debug\net8.0\ref\cliCalculator.dll
